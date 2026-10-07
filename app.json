@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "app_content",
+    "slug": "snack-debb477d-8877-4d7e-a65b-8f4b2a6e76fa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.getkorawich.snackdebb477d88774d7ea65b8f4b2a6e76fa"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "28ae2c99-6338-416a-b338-34d9903667b3"
+      }
+    }
+  }
+}
